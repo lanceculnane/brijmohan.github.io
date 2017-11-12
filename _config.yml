@@ -1,2 +1,3 @@
 name: Brij Mohan Lal Srivastava, Speech, Language & Discourse
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
